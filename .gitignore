@@ -1,0 +1,11 @@
+# Apple system files
+.DS_Store
+
+# Misc. editor backup files
+*.~
+*.bak
+
+# Node modules
+node_modules/*
+
+
